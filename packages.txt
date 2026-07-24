@@ -6,4 +6,5 @@ libsm6
 libxext6
 libxrender1
 libice6
+libegl1
 
