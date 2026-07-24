@@ -2,3 +2,6 @@ streamlit
 plotly
 streamlit-webrtc
 av
+opencv-python-headless
+mediapipe
+numpy
